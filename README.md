@@ -7,7 +7,7 @@
 
 ## Description
 
-Application to share and view goals with piers using chart.js to be able to vizualize the data. Live deployed on Heroku!
+Application to share and view goals with peers using chart.js to be able to vizualize the data. Live deployed on Heroku!
 
 ## APIs/Frameworks
 - <a href="https://www.chartjs.org/" >chart.js</a>
